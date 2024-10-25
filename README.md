@@ -1,4 +1,4 @@
-<h1>Hi there! I'm Carlos Moreira.</h1>
+<h1>Hi there! I'm Carlos Moreira</h1>
 
 ## GitHub Stats
 <div>
