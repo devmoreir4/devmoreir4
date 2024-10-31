@@ -2,7 +2,7 @@
 
 - 💻 I'm a grad student in Computer Engineering
 - 🤝 I'm available for freelancing
-- ☁️ I've keen interest in cloud computing. So,I'm learning AWS
+- ☁️ I've keen interest in cloud computing. So, I'm learning AWS
 - ☕ Coffee Lover
 - 🚀 Always developing myself until I can't break my limit
 
