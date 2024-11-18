@@ -7,7 +7,11 @@
 - 🚀 Turning problems into creative solutions, line by line.
 
 ## Connect with me
-<div>
-<a href = "mailto: carlos.moreira@gsuite.iff.edu.br"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/carlos-armando-moreira/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+<p>
+  <a href="https://www.linkedin.com/in/carlos-armando-moreira/" target="_blank">
+    <img src="https://img.shields.io/badge/-Carlos Moreira-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="carlos.moreira@gsuite.iff.edu.br" target="_blank">
+    <img src="https://img.shields.io/badge/-carlos.moreira-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</p>
