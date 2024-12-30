@@ -2,7 +2,6 @@
 
 - 💻 I'm a grad student in Computer Engineering
 - 🤝 I'm available for freelancing
-- ☁️ I've keen interest in cloud computing. So, I'm learning AWS
 - ☕ Coffee Lover
 - 🚀 Turning problems into creative solutions, line by line.
 
