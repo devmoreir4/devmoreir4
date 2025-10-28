@@ -1,1 +1,3 @@
-### Hi there! I'm Carlos Moreira 👋
+### Hi There! 👋
+
+I'm Carlos Moreira, a computer engineering student.
